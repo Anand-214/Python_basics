@@ -1,0 +1,12 @@
+mystr = "Harry is a good boy."
+print(mystr)
+print(len(mystr))
+print(mystr.isalpha())
+print(mystr.isalnum())
+print(mystr.capitalize())
+print(mystr.count("o"))
+print(mystr.find("g"))
+print(mystr.endswith("boy."))
+print(mystr.upper())
+print(mystr.lower())
+print(mystr.replace("is","are"))
