@@ -1,0 +1,18 @@
+New file created
+Adding lines using f.write
+Anand
+Kulkarni
+Mirafra
+
+Anand
+Kulkarni
+Mirafra
+Anand
+Kulkarni
+Mirafra
+Anand
+Kulkarni
+Mirafra
+Anand
+Kulkarni
+Mirafra

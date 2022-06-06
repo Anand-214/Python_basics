@@ -1,0 +1,2 @@
+This is some practice on file handling
+Lets mak it perfect

@@ -1,0 +1,10 @@
+f = open("code.txt","w+")
+f.write("Line1\nLine2\nLine3\nLine4.")
+print(f.tell())
+f.write("new line.")
+print(f.readline())
+print(f.tell())
+f.seek(0)
+print(f.tell())
+f.close()
+
